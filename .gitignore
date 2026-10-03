@@ -1,0 +1,10 @@
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+Debug/
+Release/
+x64/
+x86/
+.vscode/
